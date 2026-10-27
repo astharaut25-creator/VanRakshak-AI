@@ -20,9 +20,6 @@ VanRakshak-AI turns scattered forest data into one clear, location-based map of 
 
 Built by **Team TeraPlus** for the **Code4Nature Challenge**.
 
-## 🌐 Live Demo
-
-👉 **[Click here to open VanRakshak-AI](https://vanrakshak-ai.lovable.app/)**
 
 ## ❗ Problem
 
